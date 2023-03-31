@@ -4,8 +4,7 @@ $(document).ready(function () {
     let winTop = $(window).scrollTop();
     $(".parallax").css(
       "background-position",
-      "220px " + (600 - winTop * 4) + "px," + "background-position",
-      "120px " +
+      "120px " + (700 - winTop * 5) + "px," + (600 - winTop * 3.5) + "px,"  +
         (500 - winTop * 2) +
         "px," +
         "center " +

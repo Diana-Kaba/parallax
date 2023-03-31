@@ -39,11 +39,11 @@
 .parallax {
   background-color: #185899;
   background-image: url(images/275-2750441_blue-planet-transparent.png),
-    url(images/meteorit.webp), url(images/mars2.jpg);
-  background-position: 120px 500px, 220px 600px, center -90px;
-  background-attachment: fixed, fixed, fixed;
-  background-size: 100px 100px, 100px 100px, cover;
-  background-repeat: no-repeat, no-repeat, no-repeat;
+    url(images/nlo.png), url(images/meteorit.webp), url(images/mars2.jpg);
+  background-position: 120px 500px, 220px 600px, 520px 700px, center -90px;
+  background-attachment: fixed, fixed, fixed, fixed;
+  background-size: 100px 100px, 350px 350px, 200px 200px, cover;
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
   color: #ffffff;
   padding: 150px;
 }
